@@ -1,5 +1,5 @@
 {
-  "sleep": false,
+  "sleep": true,
   "Status": "Maintenance",
   "Owner": "@Shaasleep"
 }
